@@ -52,6 +52,7 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
 </a>
+
 <a href="https://mui.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialUI" width="40" height="40"/>
 </a>
@@ -59,8 +60,9 @@
   <img src="https://via.placeholder.com/40?text=MS" alt="microservices" width="40" height="40"/>
 </a>
 <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit5-original.svg" alt="junit" width="40" height="40"/>
+  <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit" width="40" height="40"/>
 </a>
+
 <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="hibernate" width="40" height="40"/>
 </a>
