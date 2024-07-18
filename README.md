@@ -1,5 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Om prakash Ganesh</h1>
+<p align="center"> <a href="https://www.instagram.com/ohmprakashganesh" target="blank">
+  <img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="omprakashganesh"
+    </p>
 <img src="https://www.canva.com/templates/EAFCUXYzUJc-black-and-white-bold-typographic-gym-health-and-fitness-animated-logo/">
 <h3 align="center">A passionate FullStack Developer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
